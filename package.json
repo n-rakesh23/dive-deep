@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react-ep-2.1",
+  "version": "1.0.0",
+  "description": "this is the start",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/n-rakesh23/dive-deep#readme",
+  "bugs": {
+    "url": "https://github.com/n-rakesh23/dive-deep/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-rakesh23/dive-deep.git"
+  },
+  "license": "ISC",
+  "author": "Rakesh",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
